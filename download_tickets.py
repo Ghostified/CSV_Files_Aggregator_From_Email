@@ -11,9 +11,6 @@ This script:
 5. Combines all CSVs into one (single header)
 6. Stores everything in a timestamped output folder
 
-No external dependencies (uses only Python standard library)
-Secure: No 'requests' or 'urllib3' vulnerabilities
-Reusable, scalable, and configurable via CLI
 
 Usage:
     python download_tickets.py --email emails/tickets.eml --name JulyCampaign
